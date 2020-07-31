@@ -20,6 +20,6 @@ Model 1: Decision Tree with Gini Index Criterion
 
 Model 2: Decision Tree with Entropy Criterion
 
-Model 3: Decision Tree with reduced depth (Pruning) to reduce the overfitting with Model and Model 2
+Model 3: Decision Tree with reduced depth (Pruning) to reduce the overfitting with Model 1 and Model 2
 
 
