@@ -24,4 +24,4 @@ Model 2: Decision Tree with Entropy Criterion
 
 Model 3: Decision Tree with reduced depth (Pruning) to reduce the overfitting with Model 1 and Model 2
 
-
+Finally, Pruned Decision Tree (Model 3) is used to predict observations on unseen data for final submission to the competition
