@@ -2,7 +2,7 @@
 
 This repository focuses on Building Decision Trees (Gini, Entropy) for the Titanic Survival Prediction from Kaggle Competition
 
-Here is the link to the Kaggle competition.Although competition requires to submit predictions, I have solely used this data to just build various models of Decision Trees and the concept of Pruning to reduce the Overfitting with Decision Tree
+Here is the link to the Kaggle competition.Although competition requires to submit predictions, I have solely used this data to just build various models of Decision Trees and the concept of Pruning to reduce the Overfitting with Decision Tree and check out the most significant features that contributed to the survival of the Titanic Passengers
 
 https://www.kaggle.com/c/titanic
 
