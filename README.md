@@ -1,1 +1,1 @@
-# DecisionTrees-Gini-Entropy--TitanicSurvivalPrediction
+# DecisionTrees-Gini-Entropy-TitanicSurvivalPrediction
