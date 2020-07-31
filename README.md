@@ -10,6 +10,7 @@ The code used for Building Decision Trees can be found in the repository with na
 
 ![dt](https://user-images.githubusercontent.com/65406908/89076741-dacd0300-d34e-11ea-9528-ae242df2cf34.png)
 
+The data used to train/test the model is included in this directory (train_titanic.csv, test_titanic.csv)
 
 # Decision Tree Models
 
